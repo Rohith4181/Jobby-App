@@ -5,7 +5,7 @@ import Header from '../Header'
 import './index.css'
 
 const Home = () => (
-   <div className="home-container">
+  <div className="home-container">
     <Header />
     <div className="home-page">
       <div className="home-page-content">
@@ -22,7 +22,6 @@ const Home = () => (
       </div>
     </div>
   </div>
-
 )
-  
+
 export default Home
